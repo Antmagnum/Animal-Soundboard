@@ -101,10 +101,15 @@ img {
         margin-top: 20%;
     }
 
+    #mainContainer {
+        max-width: 400px;
+        margin-left: 30px;
+    }
+
     .imageBox {
         width: 80px;
         float: left;
-        margin: 2px;
+        margin: 4px;
         font-size: 12px;
     }
 
